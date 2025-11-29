@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HSErp.Application/HSErp.Application.csproj" />
+  <Project Path="HSErp.Core/HSErp.Core.csproj" />
+  <Project Path="HSErp.Infrastructure/HSErp.Infrastructure.csproj" />
+  <Project Path="HSErp.WebApi/HSErp.Api.csproj" />
+</Solution>
